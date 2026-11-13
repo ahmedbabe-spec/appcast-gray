@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.2.38",
-  "latestVersion": "1.2.38",
+  "minVersion": "1.2.39",
+  "latestVersion": "1.2.39",
   "forceOn": ["android","ios"],
-  "note": "Performance improvements - must update"
+  "note": "Live sessions, home banners and improvements - must update"
 }
